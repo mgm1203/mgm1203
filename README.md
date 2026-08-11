@@ -1,10 +1,10 @@
 <h1>Hi, I'm Matthew, an aspiring <a href="https://www.linkedin.com/in/matthew-martinez-b34b77418/">IT/Helpdesk Professional</a>!</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
+
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/mgm1203/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/mgm1203/azure-network-protocols)
-
   
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/mgm1203/osticket-prereqs)
