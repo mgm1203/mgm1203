@@ -4,6 +4,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/mgm1203/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/mgm1203/azure-network-protocols)
+
   
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/mgm1203/osticket-prereqs)
