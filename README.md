@@ -19,4 +19,4 @@
 
 
 [instagram]: https://www.instagram.com/Matthew
-[linkedin]: https://linkedin.com/in/Matthew
+[linkedin]: https://www.linkedin.com/in/matthew-martinez-b34b77418/
