@@ -18,5 +18,5 @@
 [<img align="left" alt="Matthew | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[instagram]: https://www.instagram.com/Matthew
+[instagram]: https://www.instagram.com/matthewmartinez143/
 [linkedin]: https://www.linkedin.com/in/matthew-martinez-b34b77418/
