@@ -6,10 +6,10 @@
   - [Creating-Azure-Account-Configuring-Resources](https://github.com/mgm1203/Creating-Azure-Account-Configuring-Resources/tree/main)
  
   
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/mgm1203/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/mgm1203/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/mgm1203/ticket-lifecycle)
+- <b> Active Directory</b>
+
+
+  
 
 <h2>🤳Connect with me:</h2>
 
