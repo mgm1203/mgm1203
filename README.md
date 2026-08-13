@@ -4,7 +4,7 @@
 
 - <b>Microsoft Azure</b>
   - [Creating-Azure-Account-Configuring-Resources](https://github.com/mgm1203/Creating-Azure-Account-Configuring-Resources/tree/main)
- 
+
   
 - <b> Active Directory</b>
 
