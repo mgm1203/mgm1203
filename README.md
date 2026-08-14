@@ -11,7 +11,7 @@
    - [Password-Resetting-and-Account-Unlocking-in-Active-Directory](https://github.com/mgm1203/Password-Resetting-and-Account-Unlocking-in-Active-Directory/blob/main/)
  
 ## 🛠️ What I’m Working On/Future Accomplishments
-* COMPTIA A+ Certification
+* CompTIA A+ Certification
 * Security+ Certification
 
 
