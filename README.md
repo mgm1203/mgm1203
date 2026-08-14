@@ -1,3 +1,5 @@
+<img width="950" height="450" alt="image" src="https://github.com/user-attachments/assets/0b2fd4ec-701d-4260-a983-e7130bc54d20" />
+
 <h1>Hello, I'm Matthew, an aspiring <a href="https://www.linkedin.com/in/matthew-martinez-b34b77418/">IT/Helpdesk Professional</a>!</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
