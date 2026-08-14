@@ -10,9 +10,10 @@
 - <b> Active Directory</b>
    - [Password-Resetting-and-Account-Unlocking-in-Active-Directory](https://github.com/mgm1203/Password-Resetting-and-Account-Unlocking-in-Active-Directory/blob/main/)
  
-## 🛠️ What I’m Working On/Future Accomplishments
+## 🛠️ What I’m Working On/Future Goals:
 * CompTIA A+ Certification
 * Security+ Certification
+* Cybersecurity and Information Assurance (WGU) 
 
 
 <h2>🤳Connect with me:</h2>
