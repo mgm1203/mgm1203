@@ -1,4 +1,4 @@
-<h1>Hello, I'm Matthew, a future <a href="https://www.linkedin.com/in/matthew-martinez-b34b77418/">IT/Helpdesk Professional</a>!</h1>
+<h1>Hello, I'm Matthew, an aspiring <a href="https://www.linkedin.com/in/matthew-martinez-b34b77418/">IT/Helpdesk Professional</a>!</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
