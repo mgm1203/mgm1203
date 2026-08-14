@@ -5,11 +5,8 @@
 - <b>Microsoft Azure</b>
   - [Creating-Azure-Account-Configuring-Resources](https://github.com/mgm1203/Creating-Azure-Account-Configuring-Resources/tree/main)
 
-  
 - <b> Active Directory</b>
-
-
-  
+   - [Password-Resetting-and-Account-Unlocking-in-Active-Directory](https://github.com/mgm1203/Password-Resetting-and-Account-Unlocking-in-Active-Directory/blob/main/)
 
 <h2>🤳Connect with me:</h2>
 
