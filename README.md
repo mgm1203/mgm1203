@@ -5,8 +5,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
  
   - <b>OsTicket (Help Desk Ticketing System)</b>
-
-
+    - [OsTicket-Prerequisites-and-Installation](https://github.com/mgm1203/OsTicket-Prerequisites-and-Installation-/blob/main)
 
 - <b>Microsoft Azure</b>
   - [Creating-Azure-Account-Configuring-Resources](https://github.com/mgm1203/Creating-Azure-Account-Configuring-Resources/tree/main)
